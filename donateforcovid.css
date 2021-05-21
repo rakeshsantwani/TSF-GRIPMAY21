@@ -45,7 +45,7 @@ body{
 }
 
 button{
-    font-size: 70px;
+    font-size: 40px;
     font-family:'RocknRoll One', sans-serif;
     font-weight:40px;
     border-style:solid;
@@ -53,7 +53,7 @@ button{
     margin-right:500px;
     margin-left:500px;
     margin-top:100px;
-    padding: 10px 30px 10px 30px;
+    padding: 50px 10px 50px 50px;
     color:white;
     border-radius: 25em;
     background: #0b2227;
