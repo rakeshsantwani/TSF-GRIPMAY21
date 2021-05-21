@@ -56,7 +56,7 @@ button{
     padding: 10px 30px 10px 30px;
     color:azure;
     background: #0b2227;
-    border-radius:30%;
+    border-radius:25em;
     box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
     transition: all .2s;
     position: relative;
