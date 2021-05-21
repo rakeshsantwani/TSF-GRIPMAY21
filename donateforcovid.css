@@ -54,8 +54,9 @@ button{
     margin-left:500px;
     margin-top:100px;
     padding: 10px 30px 10px 30px;
-    color:white;
+    color:azure;
     background: #0b2227;
+    border-radius:10%;
     box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
     transition: all .2s;
     position: relative;
@@ -68,6 +69,23 @@ button{
      transform:scale(1.0);
   }
   
+a:link{
+  color: white;
+background-color: transparent;
+      text-decoration:none;
+  }
+  a:visited{
+      text-decoration:none;
+      color:white;
+
+  }
+    
+  a:active{
+      text-decoration:none;
+      color:#006ba0;
+  }
+
+
   .colors{
     background:linear-gradient(150deg,turquoise,white,orange);
     height: 100%;
