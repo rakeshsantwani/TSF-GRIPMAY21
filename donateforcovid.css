@@ -69,6 +69,8 @@ button{
     font-weight:40px;
     border-style:solid;
     border-color:#0b2227;
+     margin-right:500px;
+    margin-left:500px;
     margin-top:5px;
     padding: 10px 30px 10px 30px;
     color:azure;
@@ -76,7 +78,7 @@ button{
     border-radius:25em;
     box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
     transition: all .2s;
-    position: absolute;
+    position: relative;
     cursor: pointer;
   }
 
@@ -112,58 +114,5 @@ section{
     box-shadow: 0 0 1.5px rgb(0 0 0 / 2%), 0 0 3.6px rgb(0 0 0 / 3%), 0 0 6.8px rgb(0 0 0 / 4%), 0 0 12.1px rgb(0 0 0 / 4%), 0 0 22.6px rgb(0 0 0 / 5%), 0 0 54px rgb(0 0 0 / 7%);
     border-radius: 10px;
 }
-
-.side{
-    align-self:flex-end;
-    display:flex;
-    align-items: right;
-  }
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
