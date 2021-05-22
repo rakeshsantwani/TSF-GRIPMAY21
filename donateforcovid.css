@@ -21,17 +21,11 @@ img{
     box-shadow: 0 0 1.5px rgb(0 0 0 / 2%), 0 0 3.6px rgb(0 0 0 / 3%), 0 0 6.8px rgb(0 0 0 / 4%), 0 0 12.1px rgb(0 0 0 / 4%), 0 0 22.6px rgb(0 0 0 / 5%), 0 0 54px rgb(0 0 0 / 7%);
 }
 
-body{
-  
+body{  
    background:linear-gradient(150deg,orange,white,turquoise);
 }
 
 
-/*
-
-
-
-*/
 
 #use{
    /* margin-top:30px;*/
@@ -69,25 +63,22 @@ background-color: transparent;
       color:#006ba0;
   }
 
-
 button{
-  font-size: 20px;
-  font-family:'RocknRoll One', sans-serif;
-  font: weight 40px;
-  border-style:solid;
-  border-color:#4cd47c;
-  margin-left:600px;
-  margin-top:100px;
-  padding: .8em 1.8em;
-  color: #fff;
-  border-radius: 25em;
-  background: #0b2227;
-  box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
-  transition: all .2s;
-  position: relative;
-  top: 0;
-  cursor: pointer;
-}
+    font-size: 30px;
+    font-family:'RocknRoll One', sans-serif;
+    font-weight:40px;
+    border-style:solid;
+    border-color:#0b2227;
+    margin-top:5px;
+    padding: 10px 30px 10px 30px;
+    color:azure;
+    background: #0b2227;
+    border-radius:25em;
+    box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
+    transition: all .2s;
+    position: fixed;
+    cursor: pointer;
+  }
 
   /* Hover */
   button:hover{
@@ -154,56 +145,6 @@ section{
 
 
 
-/*
-
-
-
-
-
-
-
-
-button{
-  font-size: 20px;
-  font-family:'RocknRoll One', sans-serif;
-  font: weight 40px;
-  border-style:solid;
-  border-color:#4cd47c;
-  margin-left:600px;
-  margin-top:100px;
-  padding: .8em 1.8em;
-  color: #fff;
-  border-radius: 25em;
-  background: #0b2227;
-  box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
-  transition: all .2s;
-  position: relative;
-  top: 0;
-  cursor: pointer;
-}
-/*
-button{
-    font-size: 30px;
-    font-family:'RocknRoll One', sans-serif;
-    font-weight:40px;
-    border-style:solid;
-    border-color:#0b2227;
-    margin-top:5px;
-    padding: 10px 30px 10px 30px;
-    color:azure;
-    background: #0b2227;
-    border-radius:25em;
-    box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
-    transition: all .2s;
-    position: fixed;
-    cursor: pointer;
-  }*/
-  
-  /* Hover */
- 
-
-
-*/
 
 
 
@@ -226,4 +167,3 @@ button{
 
 
 
-*/
