@@ -52,15 +52,15 @@ a:link{
 background-color: transparent;
       text-decoration:none;
   }
+
   a:visited{
       text-decoration:none;
       color:white;
-
   }
     
   a:active{
       text-decoration:none;
-      color:#006ba0;
+      color:white;
   }
 
 button{
