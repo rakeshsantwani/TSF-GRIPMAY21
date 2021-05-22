@@ -71,6 +71,8 @@ button{
     border-color:#0b2227;
     padding: 10px 30px 10px 30px;
     color:azure;
+    margin-left:400px;
+    margin-right:400px;
     background: #0b2227;
     border-radius:25em;
     box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
