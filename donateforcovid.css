@@ -6,8 +6,8 @@ div{
 }
 
 img{
-   /* height:30%;
-    width:30%;*/
+     height:100%;
+    width:100%;*/
     border-radius: 10%;
     border-color: black;
     box-shadow: 0 0 1.5px rgb(0 0 0 / 2%), 0 0 3.6px rgb(0 0 0 / 3%), 0 0 6.8px rgb(0 0 0 / 4%), 0 0 12.1px rgb(0 0 0 / 4%), 0 0 22.6px rgb(0 0 0 / 5%), 0 0 54px rgb(0 0 0 / 7%);
@@ -50,9 +50,7 @@ button{
     font-weight:40px;
     border-style:solid;
     border-color:#0b2227;
-    margin-right:500px;
-    margin-left:500px;
-    margin-top:100px;
+    margin-top:30px;
     padding: 10px 30px 10px 30px;
     color:azure;
     background: #0b2227;
@@ -66,7 +64,7 @@ button{
   
   /* Hover */
   button:hover{
-     transform:scale(1.0);
+     transform:scale(1.1);
   }
 
 
