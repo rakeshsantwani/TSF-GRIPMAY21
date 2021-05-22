@@ -50,15 +50,14 @@ button{
     font-weight:40px;
     border-style:solid;
     border-color:#0b2227;
-    margin-top:30px;
+    margin-top:5px;
     padding: 10px 30px 10px 30px;
     color:azure;
     background: #0b2227;
     border-radius:25em;
     box-shadow: 0 2px 5px rgb(0 0 0 / 30%);
     transition: all .2s;
-    position: relative;
-    top: 0;
+    position: fixed;
     cursor: pointer;
   }
   
